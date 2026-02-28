@@ -1,0 +1,16 @@
+
+{
+  "name": "jusbid-frontend",
+  "private": true,
+  "scripts": { "build": "vite build" },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "axios": "^1.6.7",
+    "socket.io-client": "^4.7.2"
+  },
+  "devDependencies": {
+    "vite": "^5.4.0",
+    "@vitejs/plugin-react": "^4.2.1"
+  }
+}
